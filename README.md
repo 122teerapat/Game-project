@@ -19,8 +19,7 @@ A fun and engaging 2D turn-based shooter game built with Unity. Players control 
 - [Scenes](#scenes)
 - [Graphics & Audio](#graphics--audio)
 - [Development](#development)
-- [Credits](#credits)
-- [License](#license)
+
 
 ---
 
