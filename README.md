@@ -13,8 +13,6 @@ A fun and engaging 2D turn-based shooter game built with **Unity 2022.3.10f1** i
 - [Controls](#controls)
 - [Visual Features](#visual-features)
 - [Prefabs](#prefabs)
-- [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
 - [Credits](#credits)
 
 ---
@@ -196,43 +194,7 @@ Game-project/
 
 ---
 
-## 🎯 Roadmap
 
-### Planned Features
-- [ ] AI opponents for single-player
-- [ ] Multiple game modes (Classic, Survival, Team Battle)
-- [ ] Sound effects & background music
-- [ ] Mobile touch controls
-- [ ] Leaderboard system
-- [ ] Additional weapon types
-- [ ] Power-ups & special items
-- [ ] Network multiplayer support
-- [ ] Weather effects (rain, snow)
-- [ ] Level editor
-
----
-
-## 📊 What You Get
-
-✅ **Complete turn-based shooter game**  
-✅ **13 well-organized C# scripts**  
-✅ **Physics-based gameplay mechanics**  
-✅ **Multiple player support**  
-✅ **Production-ready code**  
-✅ **Ready to play and extend**  
-
----
-
-## 🎓 Perfect For
-
-- Learning Unity game development
-- Understanding multiplayer mechanics
-- Physics system implementation
-- UI and Canvas management
-- Turn-based game design patterns
-- C# scripting in game dev
-
----
 
 ## 📄 License
 
@@ -248,27 +210,5 @@ Repository: [Game-project](https://github.com/122teerapat/Game-project)
 
 ---
 
-## 🎮 Version Info
 
-- **Game Version**: 1.0.0
-- **Unity Version**: 2022.3.10f1
-- **Language**: C#
-- **Status**: Active Development
 
----
-
-## 🙏 Acknowledgments
-
-- Unity Technologies for the amazing engine
-- Cinemachine team for camera system
-- Community for feedback and support
-
----
-
-**Have fun playing and creating! 🎮🎯**
-
-For issues, bugs, or feature requests, please open an issue on the GitHub repository.
-
----
-
-*Made with ❤️ using Unity*
